@@ -9,7 +9,7 @@ NC='\033[0m' # Sem Cor
 echo -e "${GREEN}Iniciando o processo de atualização do LBOT...${NC}"
 
 # URL da API do GitHub para o repositório
-API_URL="https://api.github.com/repos/leonardo28l13/lbot-whatsapp/releases/latest"
+API_URL="https://api.github.com/repos/leonardo28l13/novaera/releases/latest"
 
 # 1. Obter a URL de download do ZIP da última release
 echo -e "${YELLOW}Buscando a versão mais recente...${NC}"
